@@ -9,7 +9,7 @@ This project analyzes retail sales data from a Superstore dataset to uncover key
 - Analyze the impact of discounts on profitability
 - Provide data-driven business recommendations
 
-# 🛠 Tools & Technologies
+# Tools & Technologies
 - Python
 - Pandas
 - Matplotlib
